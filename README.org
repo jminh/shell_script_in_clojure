@@ -12,8 +12,12 @@ inlein print_main.clj
 
 * Ref
 
+http://hugoduncan.org/post/shell_scripting_in_clojure_with_pallet/
+
 [[https://github.com/pallet/stevedore][pallet/stevedore]]
 
 http://palletops.com/pallet/doc/reference/0.8/script/
 
 [[https://github.com/hyPiRion/inlein/wiki/Getting-Started][hyPiRion/inlein]]
+
+
