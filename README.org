@@ -1,4 +1,9 @@
 
+* Dependency
+
+- lein
+- inlein
+
 * Usage
 
 #+BEGIN_SRC sh
